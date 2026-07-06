@@ -18,5 +18,5 @@ The project is organized into modular SQL scripts that cover both Exploratory Da
 ## About me
 Hi, I'm Alex, a graduate in Metallurgical Engineering with a strong passion for Data Engineering, Data Analytics, and Data Science. I enjoy building data solutions, uncovering insights from data, and continuously expanding my technical skills through hands-on projects.
 
-I'm always open to new opportunities where I can learn, contribute, and grow in the data field. Feel free to connect or get in touch!
+I'm always open to new opportunities where I can learn, contribute, and grow in the data field. Feel free to connect or get in touch with me on Linkedin by clicking here:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-seya-261008b8/)
 
